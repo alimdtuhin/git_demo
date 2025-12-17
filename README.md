@@ -1,7 +1,7 @@
 # git_demo
-this is the demo project
+This is the demo project
 <br>
-i love my country
+Ilove my country
 <br>
 Bnagladesh is a small country
 <br>
